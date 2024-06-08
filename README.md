@@ -5,11 +5,3 @@
 ###
 
 <h5 align="right">I'm currently working on it!</h5>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ebubekiryb/ebubekiryb/output/snake.svg" alt="Snake animation" />
-
-###
